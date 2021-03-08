@@ -1,0 +1,16 @@
+.darkmode{
+  background: #4e4e4e;
+  filter: brightness(.8) contrast(1.2);
+}
+.darkmode .display-4{
+  color: white;
+}
+.darkmode .text-dark{
+  color: white !important;
+}
+.darkmode .ui-carder{
+  background: #d0d0d0 !important;
+}
+.darkmode a.readmore{
+  color: white;
+}

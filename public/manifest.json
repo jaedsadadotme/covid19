@@ -1,0 +1,21 @@
+{
+  "name": "Jaedsada.me",
+  "short_name": "Jaedsada.me",
+  "theme_color": "#222831",
+  "background_color": "#ffad17",
+  "display": "standalone",
+  "Scope": "",
+  "start_url": "/",
+  "icons": [
+      { 
+        "src" : "./logo.png", 
+        "sizes": "200x200",
+        "type": "image/png"
+      },
+      { 
+        "src" : "./logo.png", 
+        "sizes": "1016x1014",
+        "type": "image/png"
+      }
+  ]
+}
